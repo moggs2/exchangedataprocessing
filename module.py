@@ -176,3 +176,4 @@ print(tradingm1.desiredlevelcount())
 
 if __name__ == '__main__':
     unittest.main(argv=['first-arg-is-ignored'], exit=False)
+#test
